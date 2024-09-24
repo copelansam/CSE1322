@@ -7,7 +7,10 @@
 # Lab 5: Abstraction and Polymorphism
 # Lab 6: Interfaces
 # Lab 7: Recursion
+# Lab 8: Excepton Handling and Creating Exceptions
+# Lab 9: File I/O
 
 # Assignment 1: Objects and Classes, Methods, and Arrays
 # Assignment 2: ArrayList and Object Methods
 # Assignment 3: Inheritance, Abstract Classes, Polymorphism, and ArrayList
+# Assignment 4: Inheritance, Interfaces, Abstract Classes, and ArrayList
